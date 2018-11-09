@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-base" />
+        <module name="service-config" />
+        <module name="service-discovery" />
+        <module name="service-mm" />
+        <module name="service-order" />
+        <module name="service-pay" />
+        <module name="service-single" />
+        <module name="zrz-spring-boot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-base" target="1.8" />
+      <module name="service-config" target="1.8" />
+      <module name="service-discovery" target="1.8" />
+      <module name="service-mm" target="1.8" />
+      <module name="service-order" target="1.8" />
+      <module name="service-pay" target="1.8" />
+      <module name="service-single" target="1.8" />
+      <module name="zrz-spring-boot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/service-base/service-base.iml" filepath="$PROJECT_DIR$/service-base/service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config/service-config.iml" filepath="$PROJECT_DIR$/service-config/service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-discovery/service-discovery.iml" filepath="$PROJECT_DIR$/service-discovery/service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-mm/service-mm.iml" filepath="$PROJECT_DIR$/service-mm/service-mm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-order/service-order.iml" filepath="$PROJECT_DIR$/service-order/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pay/service-pay.iml" filepath="$PROJECT_DIR$/service-pay/service-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-single/service-single.iml" filepath="$PROJECT_DIR$/service-single/service-single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zrz-spring-boot.iml" filepath="$PROJECT_DIR$/zrz-spring-boot.iml" />
+    </modules>
+  </component>
+</project>
